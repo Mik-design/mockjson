@@ -1,2 +1,0 @@
-# mockjson
-To get imitation
